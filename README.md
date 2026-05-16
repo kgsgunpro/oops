@@ -1,2 +1,2 @@
 # oops
-THIS REPO WILL COVER OOPS PYTHON
+learning oops with python
