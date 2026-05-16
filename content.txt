@@ -1,2 +1,3 @@
 class and obj
 class has data/attribute  and func/methods
+every thing in python is an object
