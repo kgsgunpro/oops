@@ -13,4 +13,5 @@ class Employee:
         print(f'employee is now traveling to { destination}')
 ravi = Employee()
 print(ravi.salary , ravi.travel('vizag'))
+print(type(ravi))
 
